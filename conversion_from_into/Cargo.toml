@@ -1,0 +1,6 @@
+[package]
+name = "conversion_from_into"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "fn_closures_output_parameters"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]

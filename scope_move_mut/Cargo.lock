@@ -1,0 +1,4 @@
+[[package]]
+name = "scope_move_mut"
+version = "0.1.0"
+

@@ -1,0 +1,6 @@
+[package]
+name = "variable_bindings_mut"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]

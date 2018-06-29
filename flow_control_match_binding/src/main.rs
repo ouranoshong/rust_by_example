@@ -1,0 +1,17 @@
+
+fn age() -> u32 {
+    15
+}
+
+fn main() {
+    // println!("Hello, world!");
+
+    println!("Tell me type of person you are");
+
+    match age() {
+        0 => println!("I'm not born yet I guess"),
+        n @ 1 ... 12 => println!("I'm child of age: {}!", n),
+        n @ 13 ... 19 => println!("I'm teen of age: {}!", n),
+        n => println!("I'm a old person of age: {}", n),
+    }
+}

@@ -1,0 +1,6 @@
+[package]
+name = "variable_bindings_scope"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]

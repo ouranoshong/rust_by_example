@@ -1,0 +1,6 @@
+[package]
+name = "trait_derive"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]

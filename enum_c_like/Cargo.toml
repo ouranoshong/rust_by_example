@@ -1,0 +1,6 @@
+[package]
+name = "enum_c_like"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]

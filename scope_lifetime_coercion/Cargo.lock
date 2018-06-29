@@ -1,0 +1,4 @@
+[[package]]
+name = "scope_lifetime_coercion"
+version = "0.1.0"
+
