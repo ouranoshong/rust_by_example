@@ -1,0 +1,6 @@
+[package]
+name = "std_panic"
+version = "0.1.0"
+authors = ["ouranoshong <ouranoshong@outlook.com>"]
+
+[dependencies]
